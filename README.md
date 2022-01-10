@@ -1,6 +1,6 @@
 # Bomb-Crypto-Bot
  
-An automation sccript that is incorporated with P2E NFT game Bomb Crypto. I'm also using this as an opportunity to pick up more on Python.
+An automation script that is incorporated with P2E NFT game Bomb Crypto. I'm also using this as an opportunity to pick up more on Python.
 
 This script was inspired and uses small sections of code from [mpcabete's script](https://github.com/mpcabete/bombcrypto-bot) but I have implemented my own script from scratch and the flow is targetted at being efficient, light-weight and optimized.
 
@@ -35,9 +35,9 @@ python main.py
 ```
 
 ## **Screenshots**
-![Script](https://github.com/mawenxi2112/Bomb-Crypto-Bot/blob/main/readme-images/login.png)
-![Discord Log](https://github.com/mawenxi2112/Bomb-Crypto-Bot/blob/main/readme-images/log.png)
-![Discord New Map](https://github.com/mawenxi2112/Bomb-Crypto-Bot/blob/main/readme-images/map.png)
-![Discord Chest Profits](https://github.com/mawenxi2112/Bomb-Crypto-Bot/blob/main/readme-images/chest.png)
+![Script](https://github.com/mawenxi2112/BombCrypto-Bot/blob/main/readme-images/login.png)
+![Discord Log](https://github.com/mawenxi2112/BombCrypto-Bot/blob/main/readme-images/log.png)
+![Discord New Map](https://github.com/mawenxi2112/BombCrypto-Bot/blob/main/readme-images/map.png)
+![Discord Chest Profits](https://github.com/mawenxi2112/BombCrypto-Bot/blob/main/readme-images/chest.png)
 
 
